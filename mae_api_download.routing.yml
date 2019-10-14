@@ -1,0 +1,7 @@
+hello.content:
+  path: '/descargas'
+  defaults:
+    _controller: '\Drupal\mae_api_download\Controller\HelloController::content'
+    _title: 'Hello World'
+  requirements:
+    _permission: 'access content'

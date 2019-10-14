@@ -1,0 +1,6 @@
+hello.admin:
+  title: 'Configuracion Descargar Archivos MAE API'
+  description: 'Confiugracion modulo descargas de archivos via API MAE'
+  parent: system.admin_config_development
+  route_name: hello.content
+  weight: 100
